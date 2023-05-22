@@ -75,6 +75,7 @@ module.exports = {
         900: '#025929',
       },
       black: '#000000',
+      transparent: 'transparent',
     },
 
     fontSize: {
@@ -95,5 +96,5 @@ module.exports = {
     },
   },
 
-  plugins: [],
+  plugins: [require('@tailwindcss/forms')],
 }

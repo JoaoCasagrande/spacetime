@@ -10,7 +10,7 @@ export function SignIn() {
         <User className="h-5 w-5 text-gray-500" />
       </div>
 
-      <p className="text-sm max-w-[140px] leading-snug">
+      <p className="text-sm max-w-[180px] leading-snug">
         <span className="underline">Crie sua conta</span> e salve suas memórias!
       </p>
     </a>
